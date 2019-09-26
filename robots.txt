@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thaishaquo.iwwee.com/sitemap.xml
